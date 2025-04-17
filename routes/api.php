@@ -7,5 +7,5 @@ use App\Http\Controllers\PlayerController;
 
 //Route::get('/players', [PlayerController::class, 'index']);
 //Route::post('/players', [PlayerController::class, 'store']);
-Route::post('/register', [AuthController::class, 'register']);
+//Route::post('/register', [AuthController::class, 'register']);
 

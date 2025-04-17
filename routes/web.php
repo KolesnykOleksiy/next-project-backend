@@ -3,7 +3,7 @@
 use App\Http\Controllers\AuthController;
 use Illuminate\Support\Facades\Route;
 
-Route::get('/', function () {
-    return "fsfsdfsdfsd";
-});
+//Route::get('/', function () {
+//    return "fsfsdfsdfsd";
+//});
 
